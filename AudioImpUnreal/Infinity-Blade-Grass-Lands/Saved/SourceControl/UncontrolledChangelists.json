@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ericm/Desktop/AudioImpUnreal/Infinity-Blade-Grass-Lands/Content/InfinityBladeGrassLands/Audio/DragonRoar.uasset",
+				"C:/Users/ericm/Desktop/AudioImpUnreal/Infinity-Blade-Grass-Lands/Content/InfinityBladeGrassLands/Audio/Ambience.uasset",
+				"C:/Users/ericm/Desktop/AudioImpUnreal/Infinity-Blade-Grass-Lands/Content/InfinityBladeGrassLands/Maps/ElvenRuins.umap",
+				"C:/Users/ericm/Desktop/AudioImpUnreal/Infinity-Blade-Grass-Lands/Content/InfinityBladeGrassLands/Audio/BigRoar.uasset",
+				"C:/Users/ericm/Desktop/AudioImpUnreal/Infinity-Blade-Grass-Lands/Content/InfinityBladeGrassLands/Audio/NewMetaSoundSource.uasset",
+				"C:/Users/ericm/Desktop/AudioImpUnreal/Infinity-Blade-Grass-Lands/Content/InfinityBladeGrassLands/Audio/NewWaveTableBank.uasset",
+				"/Volumes/storage/Git/UnrealSampleProject/Unreal Sample Project/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"/Volumes/storage/Git/UnrealSampleProject/Unreal Sample Project/Content/InfinityBladeGrassLands/Maps/ElvenRuins_BuiltData.uasset",
+				"/Volumes/storage/Git/UnrealSampleProject/Unreal Sample Project/Content/InfinityBladeGrassLands/Maps/ElvenRuins.umap",
+				"/Users/Nico/Desktop/UNIR/Unreal Sample Project/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"/Users/Nico/Desktop/UNIR/Unreal Sample Project/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
