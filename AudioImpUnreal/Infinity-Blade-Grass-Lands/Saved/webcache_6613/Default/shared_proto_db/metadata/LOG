@@ -1,2 +1,3 @@
-2026/05/25-19:54:16.998 7dd8 Creating DB C:\Users\ericm\Desktop\AudioImpUnreal\Infinity-Blade-Grass-Lands\Saved\webcache_6613\Default\shared_proto_db\metadata since it was missing.
-2026/05/25-19:54:17.012 7dd8 Reusing MANIFEST C:\Users\ericm\Desktop\AudioImpUnreal\Infinity-Blade-Grass-Lands\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/05/26-21:46:40.772 2860 Reusing MANIFEST C:\Users\ericm\Desktop\ImpAudioUnreal\AudioImpUnreal\Infinity-Blade-Grass-Lands\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/05/26-21:46:40.772 2860 Recovering log #3
+2026/05/26-21:46:40.773 2860 Reusing old log C:\Users\ericm\Desktop\ImpAudioUnreal\AudioImpUnreal\Infinity-Blade-Grass-Lands\Saved\webcache_6613\Default\shared_proto_db\metadata/000003.log 

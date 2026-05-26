@@ -1,2 +1,3 @@
-2026/05/25-19:54:11.460 7dd8 Creating DB C:\Users\ericm\Desktop\AudioImpUnreal\Infinity-Blade-Grass-Lands\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/05/25-19:54:11.497 7dd8 Reusing MANIFEST C:\Users\ericm\Desktop\AudioImpUnreal\Infinity-Blade-Grass-Lands\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/26-21:46:35.955 a184 Reusing MANIFEST C:\Users\ericm\Desktop\ImpAudioUnreal\AudioImpUnreal\Infinity-Blade-Grass-Lands\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/26-21:46:35.967 a184 Recovering log #3
+2026/05/26-21:46:35.968 a184 Reusing old log C:\Users\ericm\Desktop\ImpAudioUnreal\AudioImpUnreal\Infinity-Blade-Grass-Lands\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
